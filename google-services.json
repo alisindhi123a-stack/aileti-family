@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139969165499",
+    "project_id": "aileti-family-9aab6",
+    "storage_bucket": "aileti-family-9aab6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139969165499:android:48782d0f5b3ec23d88919e",
+        "android_client_info": {
+          "package_name": "com.example.aileti_family"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUlEeMHFRUaZUp0FYLDMj4k9AIW0iUgDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
